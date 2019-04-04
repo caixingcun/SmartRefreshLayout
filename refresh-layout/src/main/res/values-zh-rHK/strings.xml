@@ -1,0 +1,21 @@
+<resources>
+    <string name="srl_header_pulling">下拉可以刷新</string>
+    <string name="srl_header_refreshing">正在刷新…</string>
+    <string name="srl_header_loading">等待底部加載完成…</string>
+    <string name="srl_header_release">釋放立即刷新</string>
+    <string name="srl_header_finish">刷新完成</string>
+    <string name="srl_header_failed">刷新失敗</string>
+    <string name="srl_header_update">上次更新 M-d HH:mm</string>
+    <string name="srl_header_secondary">釋放進入二樓</string>
+
+    <string name="srl_footer_pulling">上拉加載更多</string>
+    <string name="srl_footer_release">釋放立即加載</string>
+    <string name="srl_footer_loading">正在加載…</string>
+    <string name="srl_footer_refreshing">等待頭部刷新完成…</string>
+    <string name="srl_footer_finish">加載完成</string>
+    <string name="srl_footer_failed">加載失敗</string>
+    <string name="srl_footer_nothing">沒有更多數據了</string>
+
+    <string name="srl_content_empty">SmartRefreshLayout中沒有找到內容視圖。您是否忘記在xml布局文件中添加？</string>
+    <string name="srl_component_falsify" formatted="false">%s 虛假區域\n代表運行時拖動的高度【%.1fdp】 \n而不會顯示任何東西</string>
+</resources>
